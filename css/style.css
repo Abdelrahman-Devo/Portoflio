@@ -145,7 +145,7 @@ a{
     max-width: 30px;
 }
 
-.header .cont .logo > a{
+/* .header .cont .logo > a{
     font-size: 40px;
     color: #ffffff;
     height: 60px;
@@ -156,7 +156,7 @@ a{
     letter-spacing: -9px;
     cursor: pointer;
     flex: 1;
-}
+} */
 
 .header .cont .links > .open-menu {
     color: var(--mian-color);
